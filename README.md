@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [~Comming Soon~](~Comming Soon~)
-
 - 💬 Ask me about **Responsive Web Design (HTML & CSS etc.)**
 
 <h3 align="left">Connect with me:</h3>
