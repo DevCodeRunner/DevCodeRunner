@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [hotel-app](https://github.com/DevCodeRunner/hotel-app)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React, Smarty**
 
 - 💬 Ask me about **Responsive Web Design (HTML & CSS etc.)**
 
